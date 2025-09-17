@@ -1,5 +1,3 @@
----
-
 # go-platform-kit
 
 `go-platform-kit` is a **backend engineering template in Go**, designed to help developers quickly bootstrap scalable and production-ready applications. It provides essential **platform engineering building blocks** out of the box so you can focus on business logic while following best practices.
@@ -28,5 +26,3 @@ This project is built by **strictly following Low-Level Design (LLD) principles 
 * **Scalability** – components designed to handle growth.
 * **Developer Experience (DX)** – easy-to-use abstractions and clear structure.
 * **Best Practices** – idiomatic Go conventions, SOLID principles, and robust error handling.
-
----
